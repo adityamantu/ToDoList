@@ -1,0 +1,17 @@
+.container{
+    background-color:red;
+    padding:10px;
+    margin:20px;
+    width:450px;
+    border: 5px solid #FFFF00;
+    margin: auto;
+}
+.container h1{
+    text-align:center
+}
+li{
+   padding:5px; 
+}
+li button{
+    margin-left:5px;
+}
